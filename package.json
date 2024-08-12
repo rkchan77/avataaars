@@ -11,8 +11,8 @@
     "react",
     "avatar"
   ],
-  "repository": "git@github.com:fangpenlin/avataaars.git",
-  "author": "Fang-Pen Lin <hello@fangpenlin.com>",
+  "repository": "git@github.com:rkchan77/avataaars.git",
+  "author": "Ryan Chan <hello@rkchan.com>",
   "license": "MIT",
   "peerDependencies": {
     "react": "^18.3.1"
